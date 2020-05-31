@@ -1,0 +1,3767 @@
+
+
+      html {
+        height: 100%;
+        width: 100%;
+      }
+
+      body {
+        font-family: 'Open Sans', serif;
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+        -webkit-font-smoothing: antialiased;
+        overflow: -moz-scrollbars-none;
+        -ms-overflow-style: none;
+      }
+
+      
+
+      .landingPage {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: auto;
+      overflow-y: auto;
+      background-color: rgba(255, 255, 255, 1);
+      width: 1920.00px;
+    height: 4092.00px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.landingPage .group756 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 2144.00px;
+    height: 4183.00px;
+    left: -34.00px;
+    top: -91.00px;
+
+}
+
+.landingPage .group756 .background3f84a2e3 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(217, 229, 228, 1);
+      box-shadow: none;
+      width: 2144.00px;
+    height: 2509.50px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.landingPage .group756 .x1467 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/x1467.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 324.00px;
+      border-top-right-radius: 324.00px;
+      border-bottom-left-radius: 324.00px;
+      border-bottom-right-radius: 324.00px;
+      -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+      width: 919.00px;
+    height: 737.50px;
+    left: 969.00px;
+    top: 363.00px;
+
+}
+
+.landingPage .group756 .textTitle {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 590.00px;
+    height: 1262.00px;
+    left: 201.00px;
+    top: 420.00px;
+
+}
+
+.landingPage .group756 .textTitle .sharecare {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 78.00px;
+      letter-spacing: 1.38px;
+      color: rgba(26, 46, 53, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 69.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 417.00px;
+    height: 198.00px;
+    left: 0.00px;
+    top: 56.00px;
+
+}
+
+.landingPage .group756 .textTitle .goHelp {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 65.00px;
+      letter-spacing: 0.56px;
+      color: rgba(94, 146, 112, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 28.00px;
+      font-weight: 500;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 454.00px;
+    height: 47.00px;
+    left: 0.00px;
+    top: -13.00px;
+
+}
+
+.landingPage .group756 .textTitle .duringTimesLikeTheseHospitalsAreFacingHugePressureToGetMedicalSuppliesSoWeAreAskingYouToHelp {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 36.00px;
+      letter-spacing: 0.36px;
+      color: rgba(26, 46, 53, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 18.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 319.00px;
+    height: 142.00px;
+    left: 271.00px;
+    top: 58.50px;
+
+}
+
+.landingPage .group756 .textTitle .duringTimesLikeTheseHospitalsAreFacingHugePressureToGetMedicalSuppliesSoWeAreAskingYouToHelpDonate {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 36.00px;
+      letter-spacing: 0.36px;
+      color: rgba(26, 46, 53, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 18.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 319.00px;
+    height: 142.00px;
+    left: 98.00px;
+    top: 1114.50px;
+
+}
+
+.landingPage .group756 .menu {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 1073.00px;
+    height: 22.00px;
+    left: 800.00px;
+    top: 207.00px;
+
+}
+
+.landingPage .group756 .menu .aboutUs {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 24.00px;
+      letter-spacing: 0.28px;
+      color: rgba(26, 46, 53, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 14.00px;
+      font-weight: 500;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 75.00px;
+    height: 22.00px;
+    left: 304.00px;
+    top: -2.00px;
+
+}
+
+.landingPage .group756 .menu .home {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 24.00px;
+      letter-spacing: 0.28px;
+      color: rgba(26, 46, 53, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 14.00px;
+      font-weight: 500;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 52.00px;
+    height: 22.00px;
+    left: 0.00px;
+    top: -2.00px;
+
+}
+
+.landingPage .group756 .menu .map {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 24.00px;
+      letter-spacing: 0.28px;
+      color: rgba(26, 46, 53, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 14.00px;
+      font-weight: 500;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 94.00px;
+    height: 22.00px;
+    left: 126.00px;
+    top: -2.00px;
+
+}
+
+.landingPage .group756 .menu .wallet {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 24.00px;
+      letter-spacing: 0.28px;
+      color: rgba(26, 46, 53, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 14.00px;
+      font-weight: 500;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 67.00px;
+    height: 22.00px;
+    left: 607.00px;
+    top: -2.00px;
+
+}
+
+.landingPage .group756 .menu .contact {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 24.00px;
+      letter-spacing: 0.28px;
+      color: rgba(26, 46, 53, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 14.00px;
+      font-weight: 500;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 73.00px;
+    height: 22.00px;
+    left: 457.00px;
+    top: -2.00px;
+
+}
+
+.landingPage .group756 .menu .leaderboard {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 24.00px;
+      letter-spacing: 0.28px;
+      color: rgba(26, 46, 53, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 14.00px;
+      font-weight: 500;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 95.00px;
+    height: 22.00px;
+    left: 754.00px;
+    top: -2.00px;
+
+}
+
+.landingPage .group756 .menu .group256 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 22.00px;
+    height: 21.00px;
+    left: 1051.00px;
+    top: 1.00px;
+
+}
+
+.landingPage .group756 .menu .group256 .rectangle136 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: transparent;
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 22.00px;
+    height: 21.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.landingPage .group756 .menu .group256 .iconFeatherUser {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 16.87px;
+    height: 18.98px;
+    left: 3.17px;
+    top: 1.61px;
+
+}
+
+.landingPage .group756 .menu .group256 .iconFeatherUser .path293 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: transparent;
+      stroke: rgba(26, 46, 53, 1);
+          stroke-width: 1.50px;
+          stroke-linecap: round;
+      box-shadow: none;
+      width: 19.87px;
+    height: 9.33px;
+    left: -1.50px;
+    top: 11.15px;
+
+}
+
+.landingPage .group756 .menu .group256 .iconFeatherUser .path294 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: transparent;
+      stroke: rgba(26, 46, 53, 1);
+          stroke-width: 1.50px;
+          stroke-linecap: round;
+      box-shadow: none;
+      width: 11.44px;
+    height: 11.44px;
+    left: 2.72px;
+    top: -1.50px;
+
+}
+
+.landingPage .group756 .menu .quizzes {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      line-height: 24.00px;
+      letter-spacing: 0.28px;
+      color: rgba(26, 46, 53, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 14.00px;
+      font-weight: 500;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 95.00px;
+    height: 22.00px;
+    left: 923.00px;
+    top: -2.00px;
+
+}
+
+.landingPage .group756 .path963 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 1);
+      box-shadow: none;
+      width: 1920.00px;
+    height: 527.00px;
+    left: 34.00px;
+    top: 1170.00px;
+
+}
+
+.landingPage .group756 .rectangle138 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 1);
+      border-bottom-color: rgba(112, 112, 112, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(112, 112, 112, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(112, 112, 112, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(112, 112, 112, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 70.00px;
+      border-top-right-radius: 70.00px;
+      border-bottom-left-radius: 70.00px;
+      border-bottom-right-radius: 70.00px;
+      -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+      width: 438.00px;
+    height: 139.00px;
+    left: 183.00px;
+    top: 732.00px;
+
+}
+
+.landingPage .group756 .donate {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 43.00px;
+      letter-spacing: 0.98px;
+      color: rgba(26, 46, 53, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 49.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 188.00px;
+    height: 68.00px;
+    left: 308.00px;
+    top: 780.50px;
+
+}
+
+.landingPage .group756 .repeatGrid2 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: auto;
+      overflow-y: auto;
+      background-color: transparent;
+      width: 491.00px;
+    height: 164.00px;
+    left: 203.00px;
+    top: 1370.00px;
+
+}
+
+.landingPage .group756 .repeatGrid2 .repeatGrid2Dc15c029dc7d {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: hidden;
+      overflow-y: hidden;
+      background-color: transparent;
+      width: 490.00px;
+    height: 164.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.landingPage .group756 .repeatGrid2 .repeatGrid2Dc15c029dc7d .howItWorks {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 36.00px;
+      letter-spacing: 1.38px;
+      color: rgba(26, 46, 53, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 69.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 454.00px;
+    height: 96.00px;
+    left: 9.00px;
+    top: 30.00px;
+
+}
+
+.landingPage .group756 .repeatGrid2 .repeatGrid2Dc15c029dc7d .youLearnWePay {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 26.00px;
+      letter-spacing: 0.98px;
+      color: rgba(26, 46, 53, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 49.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 490.00px;
+    height: 68.00px;
+    left: 0.00px;
+    top: 117.00px;
+
+}
+
+.landingPage .group756 .throughOurWebsiteEveryTimeYouCompleteAQuizYouWillEarnPointsThatYouCanSpendOnRewardsForEveryQuizCompletedWeDonate {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      line-height: 36.00px;
+      letter-spacing: 0.60px;
+      color: rgba(26, 46, 53, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 30.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      width: 610.00px;
+    height: 232.00px;
+    left: 1109.00px;
+    top: 1363.50px;
+
+}
+
+.landingPage .group756 .repeatGrid3 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: auto;
+      overflow-y: auto;
+      background-color: transparent;
+      width: 922.00px;
+    height: 737.50px;
+    left: 203.00px;
+    top: 1797.00px;
+
+}
+
+.landingPage .group756 .repeatGrid3 .repeatGrid30725babc567c {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: hidden;
+      overflow-y: hidden;
+      background-color: transparent;
+      width: 897.00px;
+    height: 621.00px;
+    left: 0.00px;
+    top: -6.00px;
+
+}
+
+.landingPage .group756 .repeatGrid3 .repeatGrid30725babc567c .changingTheWorldIsPossibleWeJustNeedToWorkTogether {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0.00px;
+      color: rgba(26, 46, 53, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 70.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 897.00px;
+    height: 311.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.landingPage .group756 .repeatGrid3 .repeatGrid30725babc567c .ourHardworkingTeamHasWorkedTiredlesslyToMakeThisPlatformForTheCommunityWeHopeThatEveryoneWillSupportIt {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0.00px;
+      color: rgba(26, 46, 53, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 42.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 752.00px;
+    height: 248.00px;
+    left: 0.00px;
+    top: 373.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: auto;
+      overflow-y: auto;
+      background-color: transparent;
+      width: 567.75px;
+    height: 809.00px;
+    left: 1188.25px;
+    top: 1725.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: hidden;
+      overflow-y: hidden;
+      background-color: transparent;
+      width: 505.00px;
+    height: 809.00px;
+    left: 62.75px;
+    top: 0.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .background0933ca1e {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 0.20000000298023224;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 460.00px;
+    height: 809.00px;
+    left: 45.00px;
+    top: 0.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .background0933ca1e .ovalc9b44ea4 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 155, 33, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 462.00px;
+    height: 462.00px;
+    left: -1.00px;
+    top: 62.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .background0933ca1e .oval {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(43, 68, 255, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 84.00px;
+    height: 84.00px;
+    left: 328.00px;
+    top: 726.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .background0933ca1e .polygon1184aa37 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(43, 68, 255, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 100.00px;
+    height: 100.00px;
+    left: 142.00px;
+    top: -1.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .background0933ca1e .polygonaf898708 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 155, 33, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 50.00px;
+    height: 50.00px;
+    left: 31.00px;
+    top: 689.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .background0933ca1e .polygon {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(32, 38, 162, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 26.00px;
+    height: 26.00px;
+    left: 390.00px;
+    top: 62.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 355.80px;
+    height: 527.48px;
+    left: 0.00px;
+    top: 107.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(-2.00deg);
+    -webkit-transform: rotate(-2.00deg);
+    transform: rotate(-2.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 338.00px;
+    height: 516.00px;
+    left: 8.90px;
+    top: 5.74px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .base {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(242, 242, 242, 1);
+      border-bottom-color: rgba(0, 0, 0, 0);
+      border-bottom-style: solid;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(0, 0, 0, 0);
+      border-left-style: solid;
+      border-left-width: 1.00px;
+      border-right-color: rgba(0, 0, 0, 0);
+      border-right-style: solid;
+      border-right-width: 1.00px;
+      border-top-color: rgba(0, 0, 0, 0);
+      border-top-style: solid;
+      border-top-width: 1.00px;
+      border-top-left-radius: 36.45px;
+      border-top-right-radius: 36.45px;
+      border-bottom-left-radius: 36.45px;
+      border-bottom-right-radius: 36.45px;
+      -webkit-filter: drop-shadow(-10px 22px 34px rgba(0, 0, 0, 0.10196078431372549));
+    filter: drop-shadow(-10px 22px 34px rgba(0, 0, 0, 0.10196078431372549));
+      width: 250.00px;
+    height: 515.00px;
+    left: -0.50px;
+    top: -0.50px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .screen {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(212, 242, 232, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 230.27px;
+    height: 495.32px;
+    left: 10.00px;
+    top: 10.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 319.00px;
+    height: 504.00px;
+    left: 19.00px;
+    top: 0.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .mask1995ed68 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: transparent;
+      border-bottom-color: rgba(151, 151, 151, 1);
+      border-bottom-style: none;
+      border-bottom-width: 3.00px;
+      border-left-color: rgba(151, 151, 151, 1);
+      border-left-style: none;
+      border-left-width: 3.00px;
+      border-right-color: rgba(151, 151, 151, 1);
+      border-right-style: none;
+      border-right-width: 3.00px;
+      border-top-color: rgba(151, 151, 151, 1);
+      border-top-style: none;
+      border-top-width: 3.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 319.00px;
+    height: 504.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      background-image: url("assets/illustration.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 319.00px;
+    height: 504.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(14.00deg);
+    -webkit-transform: rotate(14.00deg);
+    transform: rotate(14.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 547.79px;
+    height: 741.99px;
+    left: -178.24px;
+    top: -78.84px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .headfrontcb7fec55 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(32.00deg);
+    -webkit-transform: rotate(32.00deg);
+    transform: rotate(32.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 232.63px;
+    height: 177.65px;
+    left: 260.49px;
+    top: 48.14px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .headfrontcb7fec55 .headbf67b136 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(-0.00deg);
+    -webkit-transform: rotate(-0.00deg);
+    transform: rotate(-0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 71.84px;
+    height: 124.70px;
+    left: 92.37px;
+    top: 52.95px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .headfrontcb7fec55 .headbf67b136 .head535be471 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(178, 139, 103, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 73.84px;
+    height: 126.70px;
+    left: -1.00px;
+    top: -1.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .headfrontcb7fec55 .hair42f155a6 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(-0.00deg);
+    -webkit-transform: rotate(-0.00deg);
+    transform: rotate(-0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(25, 24, 71, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 152.52px;
+    height: 94.24px;
+    left: 10.97px;
+    top: 33.16px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .bottomskinnyJeans1d9019059 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 513.00px;
+    height: 409.00px;
+    left: 0.00px;
+    top: 332.99px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .bottomskinnyJeans1d9019059 .skirtShadow {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(31, 40, 207, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 191.11px;
+    height: 46.20px;
+    left: 165.57px;
+    top: 139.88px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .bottomskinnyJeans1d9019059 .leg830444e7 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(153, 118, 89, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 186.29px;
+    height: 393.30px;
+    left: 204.20px;
+    top: -1.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .bottomskinnyJeans1d9019059 .leg {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(178, 139, 103, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 271.96px;
+    height: 254.42px;
+    left: 16.32px;
+    top: -1.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .bottomskinnyJeans1d9019059 .leftShoe {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(80.00deg);
+    -webkit-transform: rotate(80.00deg);
+    transform: rotate(80.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 57.81px;
+    height: 20.67px;
+    left: 13.59px;
+    top: 235.60px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .bottomskinnyJeans1d9019059 .leftShoe .shoee11cdb0b {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(228, 228, 228, 1);
+      box-shadow: none;
+      width: 57.81px;
+    height: 20.67px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .bottomskinnyJeans1d9019059 .rightShoeb24ddefb {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 98.86px;
+    height: 35.37px;
+    left: 357.39px;
+    top: 373.63px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .bottomskinnyJeans1d9019059 .rightShoeb24ddefb .shoeb76354db {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(228, 228, 228, 1);
+      box-shadow: none;
+      width: 98.86px;
+    height: 35.37px;
+    left: 0.00px;
+    top: -0.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .bottomskinnyJeans1d9019059 .skirt {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(43, 68, 255, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 197.55px;
+    height: 178.92px;
+    left: 159.13px;
+    top: -8.36px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .bottomskinnyJeans1d9019059 .guideffa59303 {
+    position: absolute;
+      box-sizing: content-box;
+      display: none;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 0.621698260307312;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(216, 216, 216, 1);
+      border-bottom-color: rgba(151, 151, 151, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(151, 151, 151, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(151, 151, 151, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(151, 151, 151, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 138.51px;
+    height: 18.82px;
+    left: 188.10px;
+    top: 0.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .bodylongSleeve11f246cd3 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(21.00deg);
+    -webkit-transform: rotate(21.00deg);
+    transform: rotate(21.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 437.89px;
+    height: 319.43px;
+    left: 67.21px;
+    top: 176.25px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .bodylongSleeve11f246cd3 .skin9aeba98e {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(178, 139, 103, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 360.35px;
+    height: 159.21px;
+    left: 57.44px;
+    top: 151.24px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .bodylongSleeve11f246cd3 .coatBack19b45630 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(5.00deg);
+    -webkit-transform: rotate(5.00deg);
+    transform: rotate(5.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(25, 24, 71, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 164.48px;
+    height: 225.02px;
+    left: 207.73px;
+    top: 10.97px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .bodylongSleeve11f246cd3 .shirt304302a4 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(221, 227, 233, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 133.71px;
+    height: 196.73px;
+    left: 152.94px;
+    top: -1.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .bodylongSleeve11f246cd3 .coatFront43415a58 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(47, 54, 118, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 151.41px;
+    height: 253.10px;
+    left: 93.08px;
+    top: -1.00px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .bodylongSleeve11f246cd3 .shadee07dd7af {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(0, 0, 0, 0.10196078431372549);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 26.12px;
+    height: 86.55px;
+    left: 156.19px;
+    top: 145.05px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .bodylongSleeve11f246cd3 .light {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 255, 255, 0.2);
+      box-shadow: none;
+      width: 42.57px;
+    height: 19.77px;
+    left: 176.37px;
+    top: 157.89px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .group2 .bodylongSleeve11f246cd3 .guideecbb2f25 {
+    position: absolute;
+      box-sizing: content-box;
+      display: none;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(152, 152, 152, 1);
+      border-bottom-color: rgba(151, 151, 151, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(151, 151, 151, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(151, 151, 151, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(151, 151, 151, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 118.02px;
+    height: 18.79px;
+    left: 160.79px;
+    top: 194.73px;
+
+}
+
+.landingPage .group756 .repeatGrid4 .repeatGrid46833ceb2ee85 .group4 .group .illustration1974ab56 .illustration .mask {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(-0.00deg);
+    -webkit-transform: rotate(-0.00deg);
+    transform: rotate(-0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: transparent;
+      border-bottom-color: rgba(151, 151, 151, 1);
+      border-bottom-style: none;
+      border-bottom-width: 3.00px;
+      border-left-color: rgba(151, 151, 151, 1);
+      border-left-style: none;
+      border-left-width: 3.00px;
+      border-right-color: rgba(151, 151, 151, 1);
+      border-right-style: none;
+      border-right-width: 3.00px;
+      border-top-color: rgba(151, 151, 151, 1);
+      border-top-style: none;
+      border-top-width: 3.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 319.00px;
+    height: 504.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.landingPage .group756 .repeatGrid5 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: auto;
+      overflow-y: auto;
+      background-color: transparent;
+      width: 1030.00px;
+    height: 408.00px;
+    left: 858.00px;
+    top: 2692.00px;
+
+}
+
+.landingPage .group756 .repeatGrid5 .repeatGrid57351aea58dc2 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: hidden;
+      overflow-y: hidden;
+      background-color: transparent;
+      width: 1030.00px;
+    height: 456.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.landingPage .group756 .repeatGrid5 .repeatGrid57351aea58dc2 .thisIsAMovementOfBillionsWhetherYoureMostComfortableContributingTimeToHelpachieveOutGoalsMoneyToHelpUsGrowOrEnergyToPutExcitementIntoYourCommunityweNeedToChangeTheWayWeEat {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0.00px;
+      color: rgba(26, 46, 53, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 42.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 984.00px;
+    height: 311.00px;
+    left: 0.00px;
+    top: 145.00px;
+
+}
+
+.landingPage .group756 .repeatGrid5 .repeatGrid57351aea58dc2 .readyToTakeTheNextStep {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0.00px;
+      color: rgba(26, 46, 53, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 70.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Montserrat, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 1030.00px;
+    height: 86.00px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.landingPage .group756 .path964 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(217, 229, 228, 1);
+      -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+      width: 399.00px;
+    height: 162.00px;
+    left: 864.00px;
+    top: 3200.00px;
+
+}
+
+.landingPage .group756 .startLearning {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: left;
+      letter-spacing: 0.00px;
+      color: rgba(0, 0, 0, 1);
+      -webkit-text-stroke: unset;
+      font-size: 38.00px;
+      font-weight: 700;
+    font-style: normal;
+      font-family: Montserrat, Arial;
+      text-decoration: none;
+      -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 280.00px;
+    height: 47.00px;
+    left: 923.50px;
+    top: 3257.50px;
+
+}
+
+.landingPage .group756 .repeatGrid6 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: auto;
+      overflow-y: auto;
+      background-color: transparent;
+      width: 433.57px;
+    height: 503.19px;
+    left: 202.75px;
+    top: 2752.14px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: hidden;
+      overflow-y: hidden;
+      background-color: transparent;
+      width: 433.57px;
+    height: 432.86px;
+    left: -0.00px;
+    top: 0.00px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .background {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 433.57px;
+    height: 367.62px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .background .weirdShapeaf0cba06 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(217, 229, 228, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 315.41px;
+    height: 369.62px;
+    left: 101.85px;
+    top: -1.00px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .background .weirdShape1b7fd799 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(49.00deg);
+    -webkit-transform: rotate(49.00deg);
+    transform: rotate(49.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(43, 68, 255, 0.6);
+      box-shadow: none;
+      width: 103.20px;
+    height: 204.46px;
+    left: 59.41px;
+    top: 62.06px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .background .weirdShape {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(255, 115, 198, 0.7019607843137254);
+      box-shadow: none;
+      width: 86.11px;
+    height: 107.92px;
+    left: 347.46px;
+    top: 232.91px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 290.00px;
+    height: 343.00px;
+    left: 42.25px;
+    top: 89.86px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .headfront {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 46.96px;
+    height: 77.57px;
+    left: 127.58px;
+    top: 23.33px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .headfront .head57ec7ed9 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 40.59px;
+    height: 70.83px;
+    left: 3.87px;
+    top: 6.74px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .headfront .head57ec7ed9 .headcc7f180f {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(178, 139, 103, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 42.59px;
+    height: 72.83px;
+    left: -1.00px;
+    top: -1.00px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .headfront .hair {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(25, 24, 71, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 48.96px;
+    height: 46.88px;
+    left: -1.00px;
+    top: -1.00px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .bottomskinnyJeans1 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 227.91px;
+    height: 161.49px;
+    left: 62.82px;
+    top: 181.44px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .bottomskinnyJeans1 .seata252b66e {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 111.15px;
+    height: 120.31px;
+    left: 0.00px;
+    top: 40.75px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .bottomskinnyJeans1 .seata252b66e .seat {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 111.15px;
+    height: 120.31px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .bottomskinnyJeans1 .seata252b66e .seat .seatStuff5e269300 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(197, 207, 214, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 113.15px;
+    height: 122.31px;
+    left: -1.00px;
+    top: -1.00px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .bottomskinnyJeans1 .seata252b66e .seat .seatStuff {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(0, 0, 0, 0.10196078431372549);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 65.41px;
+    height: 122.31px;
+    left: -1.00px;
+    top: -1.00px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .bottomskinnyJeans1 .skinc792387d {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(178, 139, 103, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 88.91px;
+    height: 144.54px;
+    left: 119.89px;
+    top: 13.48px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .bottomskinnyJeans1 .leglower {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(20.00deg);
+    -webkit-transform: rotate(20.00deg);
+    transform: rotate(20.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(31, 40, 207, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 40.57px;
+    height: 110.45px;
+    left: 138.06px;
+    top: 10.18px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .bottomskinnyJeans1 .rightShoe977dc42a {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(30.00deg);
+    -webkit-transform: rotate(30.00deg);
+    transform: rotate(30.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 57.81px;
+    height: 20.67px;
+    left: 111.76px;
+    top: 127.75px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .bottomskinnyJeans1 .rightShoe977dc42a .shoeb78e4a6d {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(228, 228, 228, 1);
+      box-shadow: none;
+      width: 57.81px;
+    height: 20.67px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .bottomskinnyJeans1 .rightShoe {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 55.88px;
+    height: 20.05px;
+    left: 172.04px;
+    top: 141.01px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .bottomskinnyJeans1 .rightShoe .shoe {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(228, 228, 228, 1);
+      box-shadow: none;
+      width: 55.88px;
+    height: 20.05px;
+    left: 0.00px;
+    top: 0.00px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .bottomskinnyJeans1 .legAndButt {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(43, 68, 255, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 167.05px;
+    height: 128.95px;
+    left: 44.43px;
+    top: -1.00px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .bottomskinnyJeans1 .guideb43927b1 {
+    position: absolute;
+      box-sizing: content-box;
+      display: none;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 0.621698260307312;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(216, 216, 216, 1);
+      border-bottom-color: rgba(151, 151, 151, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(151, 151, 151, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(151, 151, 151, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(151, 151, 151, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 78.29px;
+    height: 10.67px;
+    left: 43.49px;
+    top: 0.00px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .bodylongSleeve1 {
+
+      display: block;
+      position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      overflow-x: unset;
+      overflow-y: unset;
+      background-color: transparent;
+      width: 166.54px;
+    height: 155.08px;
+    left: 98.51px;
+    top: 58.97px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .bodylongSleeve1 .skin {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(178, 139, 103, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 70.81px;
+    height: 132.42px;
+    left: 96.74px;
+    top: -1.00px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .bodylongSleeve1 .coatBack {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(15.00deg);
+    -webkit-transform: rotate(15.00deg);
+    transform: rotate(15.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(32, 38, 162, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 109.55px;
+    height: 78.10px;
+    left: 31.39px;
+    top: 34.75px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .bodylongSleeve1 .shirt {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(242, 242, 242, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 76.42px;
+    height: 112.61px;
+    left: 8.73px;
+    top: 19.59px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .bodylongSleeve1 .coatFront {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(31, 40, 207, 1);
+      stroke: rgba(0, 0, 0, 0);
+          stroke-width: 1.00px;
+          stroke-linecap: butt;
+      box-shadow: none;
+      width: 145.11px;
+    height: 145.22px;
+    left: -1.00px;
+    top: 10.86px;
+
+}
+
+.landingPage .group756 .repeatGrid6 .group257 .aHumansitting .bodylongSleeve1 .guide {
+    position: absolute;
+      box-sizing: content-box;
+      display: none;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(152, 152, 152, 1);
+      border-bottom-color: rgba(151, 151, 151, 1);
+      border-bottom-style: none;
+      border-bottom-width: 1.00px;
+      border-left-color: rgba(151, 151, 151, 1);
+      border-left-style: none;
+      border-left-width: 1.00px;
+      border-right-color: rgba(151, 151, 151, 1);
+      border-right-style: none;
+      border-right-width: 1.00px;
+      border-top-color: rgba(151, 151, 151, 1);
+      border-top-style: none;
+      border-top-width: 1.00px;
+      border-top-left-radius: 0.00px;
+      border-top-right-radius: 0.00px;
+      border-bottom-left-radius: 0.00px;
+      border-bottom-right-radius: 0.00px;
+      box-shadow: none;
+      width: 66.69px;
+    height: 10.67px;
+    left: 13.60px;
+    top: 131.20px;
+
+}
+
+.landingPage .group756 .path965 {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      fill: rgba(217, 229, 228, 1);
+      box-shadow: none;
+      width: 1920.00px;
+    height: 519.00px;
+    left: 34.00px;
+    top: 3664.00px;
+
+}
+
+.landingPage .group756 .weCanTurnTheTideWithinTheNext12WeeksAndImAbsolutelyConfidentThatWeCanSendCoronavirusPackingInThisCountryButOnlyIfWeAllTakeTheStepsThatWeveOutlinedThatIsVitalBorisJohnsonBritishPrimeMinisterPressCo {
+    position: absolute;
+      box-sizing: content-box;
+      -ms-transform: rotate(0.00deg);
+    -webkit-transform: rotate(0.00deg);
+    transform: rotate(0.00deg);
+    -ms-transform-origin: center;
+    -webkit-transform-origin: center;
+    transform-origin: center;
+      opacity: 1;
+      cursor: default;
+      margin-top: 0.00px;
+      margin-right: 0.00px;
+      margin-bottom: 0.00px;
+      margin-left: 0.00px;
+      padding-top: 0.00px;
+      padding-right: 0.00px;
+      padding-bottom: 0.00px;
+      padding-left: 0.00px;
+      background-color: rgba(255, 255, 255, 0);
+      text-align: center;
+      letter-spacing: 0.00px;
+      color: rgba(26, 46, 53, 1);
+      -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+      font-size: 45.00px;
+      font-weight: 400;
+    font-style: normal;
+      font-family: Poppins, Arial;
+      text-decoration: none;
+      box-shadow: none;
+      overflow-x: unset;
+      overflow-y: unset;
+      white-space: pre;
+      width: 1476.00px;
+    height: 403.00px;
+    left: 256.00px;
+    top: 3722.00px;
+
+}
+
